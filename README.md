@@ -1,3 +1,42 @@
-The program files include many examples of C_plusplus programing.
-They are classify by chapter.
-Even all programs named by chapternumber_active model.
+# C++ 学习用仓库
+## 基础介绍
+**这项目包含了很多C++的编程代码。按照章节进行分类。几乎全部项目都是按照“章节-效果”模式命名的。**
+**The program files include many examples of C_plusplus programing.They are classify by chapter.Even all programs named by chapternumber_active model.**
+## C++PrimerPlus章节目录
+### 1. 预备知识 · Preparatory knowledge
+#### 1.1 C++简介
+#### 1.2 C++简史
+#### 1.3 可移植性和标准
+#### 1.4 程序创建的技巧
+#### 1.5 总结
+### 2. 开始学习C++ · Start Leraning C++
+#### 2.1 进入C++
+#### 2.2 C++语句
+#### 2.3 其他C++语句
+#### 2.4 函数
+#### 2.5 总结
+#### 2.6 复习题
+#### 2.7 编程练习
+### 3. 处理数据 · Processing data
+#### 3.1 简单变量
+#### 3.2 const限定符
+#### 3.3 浮点数
+#### 3.4 C++算数运算符
+#### 3.5 总结
+#### 3.6 复习题
+#### 3.7 编程练习
+### 4. 复合类型
+### 5. 循环和关系表达式
+### 6. 分支语句和逻辑运算符
+### 7. 函数————C++的编程模块
+### 8. 函数探幽
+### 9. 内存模型和名称空间
+### 10. 对象和类
+### 11. 使用类
+### 12. 类和动态内存分配
+### 13. 类继承
+### 14. C++的代码重用
+### 15. 友元、异常和其他
+### 16. string类和标准模板库
+### 17. 输入、输出和文件
+### 18. 探讨C++新标准
