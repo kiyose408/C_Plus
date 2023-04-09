@@ -1,6 +1,7 @@
 # C++ 学习用仓库
 ## 基础介绍
 **这项目包含了很多C++的编程代码。按照章节进行分类。几乎全部项目都是按照“章节-效果”模式命名的。**
+
 **The program files include many examples of C_plusplus programing.They are classify by chapter.Even all programs named by chapternumber_active model.**
 ## C++PrimerPlus章节目录
 ### 1. 预备知识 · Preparatory knowledge
