@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Program_collection",
-    "\\Program_collection\\4.20_ptrstr\\obj\\Debug"
+    "\\Program_collection\\4.11_structur",
+    "\\Program_collection\\4.6_numstr"
   ],
-  "SelectedNode": "\\Program_collection",
+  "SelectedNode": "\\Program_collection\\4.11_structur\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
