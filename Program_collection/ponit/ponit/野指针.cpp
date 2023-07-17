@@ -9,7 +9,7 @@ int main()
 
 	cout << *p << endl;//访问报错
 	cout << *p << endl;//访问报错
-	system("pause");
+	system("pause");`
 
 	return 0;
 }

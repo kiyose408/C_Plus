@@ -18,5 +18,8 @@
     <ClCompile Include="野指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
