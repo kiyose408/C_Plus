@@ -1,4 +1,4 @@
 ﻿  5.04.cpp
-D:\Code\Git\c_plus\Programming_Questions\5.04\5.04\5.04.cpp(8,12): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
-D:\Code\Git\c_plus\Programming_Questions\5.04\5.04\5.04.cpp(9,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  5.04.vcxproj -> D:\Code\Git\c_plus\Programming_Questions\5.04\x64\Debug\5.04.exe
+D:\Git\c_plus\Programming_Questions\5.04\5.04\5.04.cpp(8,12): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\Git\c_plus\Programming_Questions\5.04\5.04\5.04.cpp(9,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  5.04.vcxproj -> D:\Git\c_plus\Programming_Questions\5.04\x64\Debug\5.04.exe
